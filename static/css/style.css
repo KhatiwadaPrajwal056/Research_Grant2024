@@ -1,0 +1,103 @@
+.main {
+    background-color: #f8f9fa;
+}
+.stApp {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.result-card {
+    background-color: white;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-top: 10px;
+    margin-bottom: 20px;
+    color: black;
+}
+.small-result-card {
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-bottom: 15px;
+    max-height: 100px;
+}
+.header-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.banner {
+    background: linear-gradient(to right, #4e54c8, #8f94fb);
+    padding: 20px;
+    border-radius: 10px;
+    color: white;
+    margin-bottom: 10px;
+}
+.subtitle {
+    color: white;
+    font-size: 18px;
+}
+.confidence-meter {
+    height: 25px;
+    background-color: #e9ecef;
+    border-radius: 10px;
+    overflow: hidden;
+    margin: 20px 0;
+    margin-top: -5px;
+}
+.confidence-value {
+    height: 100%;
+    background: linear-gradient(to right, #4e54c8, #8f94fb);
+    text-align: right;
+    padding-right: 10px;
+    color: white;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.footer {
+    text-align: center;
+    margin-top: 20px;
+    color: #666;
+    font-size: 16px;
+}
+.disclaimer {
+    font-size: 12px;
+    color: #666;
+    padding: 10px;
+    background-color: #f8f9fa;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+.researchers-btn {
+    background-color: #4e54c8;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 5px;
+    text-align: center;
+    cursor: pointer;
+    margin-left:5px;
+    margin-top: 60px;
+    margin-bottom: 40px;
+    display: inline-block;
+}
+.linkedin-btn {
+    background-color: #0077B5;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    font-size: 0.9em;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.linkedin-btn:hover {
+    background-color: #005582;
+}
+h5 {
+    color: #ffffff;
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}
+

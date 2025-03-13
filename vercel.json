@@ -1,0 +1,11 @@
+{
+    "buildCommand": "pip install -r requirements.txt",
+    "framework": "streamlit",
+    "installCommand": "pip install streamlit",
+    "builds": [
+        { "src": "app.py", "use": "@vercel/python" }
+    ],
+    "routes": [
+        { "src": "/(.*)", "dest": "app.py" }
+    ]
+}
