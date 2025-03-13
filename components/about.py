@@ -47,7 +47,7 @@ def show_about_section():
     # Footer
     st.markdown("""
     <div class="footer">
-        Skin Cancer Detection © 2025 | For educational purposes only
+        Skin Cancer Detection © 2024 | For educational purposes only
     </div>
     """, unsafe_allow_html=True)
 
