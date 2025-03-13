@@ -6,6 +6,7 @@ from components.about import show_about_section
 from dotenv import load_dotenv
 import os
 
+os.system("streamlit run app.py --server.port 8000 --server.address localhost")
 
 def main():
     load_dotenv()
