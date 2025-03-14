@@ -15,7 +15,6 @@ def show_about_section():
         📸 How to Take Good Skin Images
            - Use good lighting — natural daylight works best.
            - Keep the camera steady to avoid blurriness.
-           - Include a ruler or coin for scale.
            - Take multiple images from different angles.
     </div>
     """, unsafe_allow_html=True)
