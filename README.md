@@ -83,8 +83,8 @@ skin-cancer-detection/
 
 - Iza KC
 - Prajwal Khatiwada
-- Er. Pralhad Chapagain
 - Samrat Adhikari
+- Er. Pralhad Chapagain
 
 ## Disclaimer
 
